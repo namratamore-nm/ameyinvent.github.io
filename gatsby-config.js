@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'AMEY.iNVENT',
+        short_name: 'AMEY.iNVENT',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
