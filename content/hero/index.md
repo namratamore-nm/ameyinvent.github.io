@@ -1,6 +1,6 @@
 ---
 title: 'Hi, my name is'
-name: 'AMEY.iNVENT'
+name: 'AMEY.iNVENT   '
 subtitle: 'I build things for the community.'
 contactText: 'Get In Touch'
 ---
