@@ -5,4 +5,4 @@ subtitle: 'I build things for the community.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+Hello! I'm Amey, a social innovator based in Pune, India who enjoys building things that impact the community. I develop exceptional products and deploy those in the community around.!
