@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Spotify Profile'
-cover: './demo.png'
+cover: '<iframe width="560" height="315" src="https://www.youtube.com/embed/-tzNjiwhdfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
