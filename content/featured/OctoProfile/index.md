@@ -5,7 +5,7 @@ title: 'AUDiTO'
 `youtube: https://youtu.be/-tzNjiwhdfo`
 `youtube: -tzNjiwhdfo`
 cover: 'youtube: https://www.youtube.com/embed/-tzNjiwhdfo'
-external: 'https://bit.ly/ameygoogle'
+external: 'https://www.google.com'
 tech:
   - Android
   - Voice Processing
