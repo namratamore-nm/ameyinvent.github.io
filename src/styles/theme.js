@@ -3,7 +3,7 @@ const theme = {
     dark: '#000007',
     darkestNavy: '#01050b',
     darkNavy: '#020c1b',
-    navy: '#150002',
+    navy: '#150002',  //brown
     lightNavy: '#172a45',
     darkGrey: '#333f58',
     mediumGrey: '#2d3952',
@@ -18,7 +18,7 @@ const theme = {
     yellow: '#FFC464',
     orange: '#FF9E64',
     green: '#64ffda',
-    blue: '#71AFFF',
+    blue: '#dbcfc3',   //lightbrown
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
     transGreen: 'rgba(100, 255, 218, 0.07)',
