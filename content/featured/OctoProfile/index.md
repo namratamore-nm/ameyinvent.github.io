@@ -1,10 +1,10 @@
 ---
 date: '3'
 title: 'AUDiTO'
-`video: https://www.youtube.com/embed/-tzNjiwhdfo`
+
 `youtube: https://youtu.be/-tzNjiwhdfo`
 `youtube: -tzNjiwhdfo`
-cover: './octoprofile.png'
+cover: `video: https://www.youtube.com/embed/-tzNjiwhdfo`
 external: 'bit.ly/ameygoogle'
 tech:
   - Android
