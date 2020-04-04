@@ -2,7 +2,7 @@
 date: '2018-12-18'
 title: 'Spotify Profile'
 github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'www.google.com'
 tech:
   - React
   - Express
