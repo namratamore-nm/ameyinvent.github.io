@@ -1,6 +1,9 @@
 ---
 date: '3'
 title: 'AUDiTO'
+video: https://www.youtube.com/embed/2Xc9gXyf2G4`
+youtube: https://www.youtube.com/watch?v=2Xc9gXyf2G4`
+youtube: 2Xc9gXyf2G4`
 cover: './octoprofile.png'
 external: 'bit.ly/ameygoogle'
 tech:
