@@ -4,7 +4,7 @@ title: 'AUDiTO'
 
 `youtube: https://youtu.be/-tzNjiwhdfo`
 `youtube: -tzNjiwhdfo`
-cover: `video: https://www.youtube.com/embed/-tzNjiwhdfo`
+cover: 'video: https://www.youtube.com/embed/-tzNjiwhdfo'
 external: 'bit.ly/ameygoogle'
 tech:
   - Android
